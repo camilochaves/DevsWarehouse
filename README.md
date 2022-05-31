@@ -1,10 +1,20 @@
 # DevsWarehouse
-Good to known Nuget packages
+## Nuget packages  
 | Libraries | | | | | |
 | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | [Moq][1] | [Polly][2] | [FluentValidations][3] | [FluentAssertions][4] | [Serilog][5] | [Autofixture][6] & [Bogus][7]
 | [Scrutor][8] | [Automapper][9] | [Dapper][10] & [EFCore][11] | [MediatR][12] & [Brighter][13] | [BenchmarkDotNet][14] | [Refit][15] & [RestSharp][16]
 | [Json.NET][17] | | | | | |
+
+## Blazor Resources
+- [MatBlazor](https://www.matblazor.com/)
+- [ChartJS for Blazor](https://www.iheartblazor.com/welcome)
+- [DevExpress](https://www.devexpress.com/blazor/)
+- [Radzen Blazor Components](https://blazor.radzen.com/)
+- [Syncfusion Blazor Components](https://blazor.syncfusion.com/)
+- [Syncfusion Free License](https://www.syncfusion.com/products/communitylicense)
+- [Blazor Extensions](https://www.nuget.org/profiles/BlazorExtensions)
+- [Blazor Context Menus](https://blazor-context-menu-demo.azurewebsites.net/)
 
 [1]:https://github.com/moq/moq4
 [2]:https://github.com/App-vNext/Polly
