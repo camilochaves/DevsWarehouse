@@ -1,5 +1,5 @@
 # DevsWarehouse
-Examples of must have Nuget packages
+Good to known Nuget packages
 | Libraries | | | | | |
 | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | [Moq][1] | [Polly][2] | [FluentValidations][3] | [FluentAssertions][4] | [Serilog][5] | [Autofixture][6] & [Bogus][7]
